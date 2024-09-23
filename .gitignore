@@ -1,0 +1,10 @@
+# Terraform
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*.tfstate
+*.tfstate.*
+*.lock.hcl
+**/.terraform/*
+*.auto.tfvars
